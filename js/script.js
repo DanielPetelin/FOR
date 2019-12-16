@@ -19,3 +19,10 @@
 //for (var i = 1983; i <= 2017; i++) {
     //console.log(i);
 //}
+
+//Задача 5
+for (var i = -4; i <= 100; i++) {
+    if (i % 2 == 0) {
+        console.log(i);
+    }
+}
