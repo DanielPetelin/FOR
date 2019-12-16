@@ -14,3 +14,8 @@
 //for (var i = 654; i >= 650; i--) {
     //console.log(i);
 //}
+
+//Задача 4
+for (var i = 1983; i <= 2017; i++) {
+    console.log(i);
+}
