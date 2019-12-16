@@ -1,3 +1,10 @@
-for (var i = 4; i <= 400; i++) {
-    console.log(i);
+//Задача 1
+//for (var i = 4; i <= 400; i++) {
+    //console.log(i);
+//}
+
+for (var i = 4; i <= 13; i++) {
+    if (i % 3 == 1) {
+        console.log(i);
+    }
 }
