@@ -28,8 +28,8 @@
 //}
 
 //Задача 6
-for (var i = 7; i <= 63; i++) {
-    if (i % 7 == 0) {
-        console.log(i);
-    }
-} 
+//for (var i = 7; i <= 63; i++) {
+    //if (i % 7 == 0) {
+        //console.log(i);
+    //}
+//} 
