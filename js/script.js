@@ -11,6 +11,6 @@
 //}
 
 //Задача 3
-for (var i = 654; i >= 650; i--) {
-    console.log(i);
-}
+//for (var i = 654; i >= 650; i--) {
+    //console.log(i);
+//}
