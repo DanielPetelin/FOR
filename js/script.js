@@ -1,47 +1,47 @@
 //Задача 1
 //Числа от 4 до 400.
 
-//for (var i = 4; i <= 400; i++) {
-    //console.log(i);
-//}
+for (var i = 4; i <= 400; i++) {
+    console.log(i);
+}
 
 //Задача 2
 //Числа 4, 7, 10, 13.
 
-//for (var i = 4; i <= 16; i++) {
-    //if (i % 3 == 1) {
-        //console.log(i);
-    //}
-//}
+for (var i = 4; i <= 16; i++) {
+    if (i % 3 == 1) {
+        console.log(i);
+    }
+}
 
 //Задача 3
 //Числа 654, 653, 652, 651, 650.
 
-//for (var i = 654; i >= 650; i--) {
-    //console.log(i);
-//}
+for (var i = 654; i >= 650; i--) {
+    console.log(i);
+}
 
 //Задача 4
 //Числа от 1983 до 2017.
 
-//for (var i = 1983; i <= 2017; i++) {
-    //console.log(i);
-//}
+for (var i = 1983; i <= 2017; i++) {
+    console.log(i);
+}
 
 //Задача 5
 //Числа от -4 до 100.
 
-//for (var i = -4; i <= 100; i++) {
-    //if (i % 2 == 0) {
-        //console.log(i);
-    //}
-//}
+for (var i = -4; i <= 100; i++) {
+    if (i % 2 == 0) {
+        console.log(i);
+    }
+}
 
 //Задача 6
 //Таблица умножения 7.
 
-//for (var i = 7; i <= 63; i++) {
-    //if (i % 7 == 0) {
-        //console.log(i);
-    //}
-//} 
+for (var i = 7; i <= 63; i++) {
+    if (i % 7 == 0) {
+        console.log(i);
+    }
+} 
